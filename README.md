@@ -5,7 +5,7 @@ and PostgreSQL, designed to manage books, members, and borrowing transactions.
 The application is deployed on AWS and exposes RESTful APIs for real-world usage.
 
 ## 🚀 Live Demo
-🔗 https://<your-aws-live-url>
+🔗 http://laibarey-app-env.eba-s6rq76vi.eu-north-1.elasticbeanstalk.com/index.html
 
 ## ✨ Features
 - Member management (add, view, delete)
