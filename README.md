@@ -34,9 +34,11 @@ The application is deployed on AWS and exposes RESTful APIs for real-world usage
 - `GET /api/dashboard`
 - `GET /api/recent-activity`
 
-## ⚙️ Run Locally
-```bash
-git clone https://github.com/your-username/library_app.git
-cd library_app
-npm install
-npm start
+
+##👤 Author
+
+Sidharth A  
+- GitHub: https://github.com/SidharthA7204  
+- LinkedIn: www.linkedin.com/in/sidhartha742003
+
+Open to opportunities
